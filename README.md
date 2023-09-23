@@ -1,30 +1,56 @@
-# 💫 About Me:
-Passionate Mechatronics Engineering student with a flair for problem-solving and Embedded Systems.<br>Dedicated to crafting innovative solutions that merge the realms of product design and mechatronics.<br>An enthusiast for technology, robotics, and creative engineering.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omar Eltotongy</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .content {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>💫 About Me:</h1>
+        <p>Passionate Mechatronics Engineering student with a flair for problem-solving and Embedded Systems.</p>
+        <p>Dedicated to crafting innovative solutions that merge the realms of product design and mechatronics.</p>
+        <p>An enthusiast for technology, robotics, and creative engineering.</p>
 
+        <h2>🌐 Socials:</h2>
+        <a href="https://facebook.com/Omar.eltotongy"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+        <a href="https://instagram.com/omar_eltotongy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://linkedin.com/in/omar-eltoutongy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://www.youtube.com/channel/UCvRvRJmkn7rhgEdCxdFqF8A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Omar.eltotongy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_eltotongy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-eltoutongy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCvRvRJmkn7rhgEdCxdFqF8A) 
+        <h1>💻 Tech Stack:</h1>
+        <!-- Your tech stack badges -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OmarEltotongy&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OmarEltotongy&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarEltotongy&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+        <h2>📊 GitHub Stats:</h2>
+        <!-- Your GitHub stats -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OmarEltotongy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+        <h2>🏆 GitHub Trophies</h2>
+        <!-- Your GitHub trophies -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+        <h2>✍️ Random Dev Quote</h2>
+        <!-- Your random dev quote -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OmarEltotongy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+        <h2>🔝 Top Contributed Repo</h2>
+        <!-- Your top contributed repo stats -->
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+        <h2>😂 Random Dev Meme</h2>
+        <!-- Your random dev meme -->
 
----
-[![](https://visitcount.itsvg.in/api?id=OmarEltotongy&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+        <div>
+            <a href="https://visitcount.itsvg.in/api?id=OmarEltotongy&icon=5&color=3"><img src="https://visitcount.itsvg.in/api?id=OmarEltotongy&icon=5&color=3" alt="Visitor Count"></a>
+        </div>
+    </div>
+</body>
+</html>
