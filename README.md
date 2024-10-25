@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Mechatronics Engineering student with a flair for problem-solving and Embedded Systems.<br>Dedicated to crafting innovative solutions that merge the realms of product design and mechatronics.<br>An enthusiast for technology, robotics, and creative engineering.
+Passionate Mechatronics Engineering student with a flair for problem-solving and Embedded Systems.<br>Dedicated to crafting innovative solutions that merge product design and mechatronics.<br>An enthusiast for technology, robotics, autonomous systems, and creative engineering.
 
 
 ## 🌐 Socials:
@@ -23,5 +23,3 @@ Passionate Mechatronics Engineering student with a flair for problem-solving and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmarEltotongy&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
