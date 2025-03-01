@@ -7,16 +7,10 @@
 - **Autonomous Systems**: Developed autonomous robots using **C++** for control algorithms on **Raspberry Pi**, integrating sensors and implementing **PID control** for navigation. Proficient in **ROS (Robot Operating System)** for real-time robotic control and **OpenCV** (with C++ bindings) for computer vision tasks like object detection and environment interaction.
 - **Tools & Technologies**: C++, ROS, OpenCV, Proteus, Keil, IAR Workbench, Eclipse, Arduino IDE, RTOS, PID Control, CAN/LIN/Ethernet protocols.
 
-### 🚀 Projects:
-- **Mobile Robot Development**: Designed and programmed an autonomous mobile robot using C++ on Raspberry Pi, integrating sensors, PID control, and ROS for real-time control and navigation.
-- **Embedded Systems Design**: Developed and debugged embedded circuits using Proteus, ensuring optimal performance and reliability.
-- **Computer Vision Integration**: Implemented OpenCV for environment detection and interaction in autonomous systems.
-
 ### 📫 Let’s Connect:
-I’m always open to collaboration, discussions, or new opportunities. Reach out to me at **OmarEltoutongy@outlook.com** or connect with me on [LinkedIn]([#](https://www.linkedin.com/in/omar-eltoutongy/)).
+I’m always open to collaboration, discussions, or new opportunities. Reach out to me at **OmarEltoutongy@outlook.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/omar-eltoutongy/).
 
 ---
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Omar.eltotongy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_eltotongy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-eltoutongy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCvRvRJmkn7rhgEdCxdFqF8A) 
