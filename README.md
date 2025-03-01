@@ -1,5 +1,21 @@
 # 💫 About Me:
-Passionate Mechatronics Engineering student with a flair for problem-solving and Embedded Systems.<br>Dedicated to crafting innovative solutions that merge product design and mechatronics.<br>An enthusiast for technology, robotics, autonomous systems, and creative engineering.
+👋 Hello, I’m **Omar Eltoutongy**, a Mechatronics and Automation Engineer with a strong focus on **Embedded Systems**, **C++ Programming**, and **Autonomous Systems**. I hold a degree from Ain Shams University’s International Credit Hours Program and a dual degree from the University of East London. My academic and professional journey has equipped me with advanced technical skills and hands-on experience in developing robust, scalable, and efficient systems.
+
+### 🛠️ Technical Skills & Expertise:
+- **Embedded Systems**: Proficient in microcontroller programming, hardware-software integration, and embedded software development using **C++**. Experienced with tools like **Arduino IDE**, **IAR Workbench**, **Keil**, and **Eclipse**, as well as simulation tools like **Proteus** for circuit design and debugging.
+- **AUTOSAR & Automotive Systems**: Trained in AUTOSAR architecture, covering memory management, communication protocols (**CAN**, **LIN**, **Ethernet**), and real-time operating systems (**RTOS**). Skilled in developing scalable automotive software systems.
+- **Autonomous Systems**: Developed autonomous robots using **C++** for control algorithms on **Raspberry Pi**, integrating sensors and implementing **PID control** for navigation. Proficient in **ROS (Robot Operating System)** for real-time robotic control and **OpenCV** (with C++ bindings) for computer vision tasks like object detection and environment interaction.
+- **Tools & Technologies**: C++, ROS, OpenCV, Proteus, Keil, IAR Workbench, Eclipse, Arduino IDE, RTOS, PID Control, CAN/LIN/Ethernet protocols.
+
+### 🚀 Projects:
+- **Mobile Robot Development**: Designed and programmed an autonomous mobile robot using C++ on Raspberry Pi, integrating sensors, PID control, and ROS for real-time control and navigation.
+- **Embedded Systems Design**: Developed and debugged embedded circuits using Proteus, ensuring optimal performance and reliability.
+- **Computer Vision Integration**: Implemented OpenCV for environment detection and interaction in autonomous systems.
+
+### 📫 Let’s Connect:
+I’m always open to collaboration, discussions, or new opportunities. Reach out to me at **OmarEltoutongy@outlook.com** or connect with me on [LinkedIn]([#](https://www.linkedin.com/in/omar-eltoutongy/)).
+
+---
 
 
 ## 🌐 Socials:
